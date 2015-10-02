@@ -1,7 +1,7 @@
 CK Editor from CDN
 =====================
 
-Load [CK Editor](http://ckeditor.com/) from a CDN.
+Load [CK Editor](http://ckeditor.com/) and JQuery adapter from a CDN.
 
 
 ## Browser policy
